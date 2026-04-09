@@ -1,0 +1,41 @@
+body {
+    font-family: "Noto Sans KR", sans-serif;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 120px 0;
+}
+
+.title {
+    text-align: center;
+}
+
+.title h2 {
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.title p {
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 16px;
+}
+
+.inner {
+    display: flex;
+    margin-top: 120px;
+    text-align: center;
+    gap: 24px;
+}
+
+.inner .itm .txt_box strong {
+    display: block;
+    margin-top: 16px;
+}
+
+.inner .itm .txt_box p {
+    margin-top: 8px;
+}
+
+.inner .itm .txt_box button {
+    margin-top: 16px;
+}
